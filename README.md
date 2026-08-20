@@ -1,17 +1,3 @@
-## 👨‍💻 Author
-
-**Chaitanya Pilla**
-
-- GitHub: [github.com/Chaitu381](https://github.com/Chaitu381)
-- Repository: [cloudvandana-salesforce-crud-assignment](https://github.com/Chaitu381/cloudvandana-salesforce-crud-assignment)
-- Live Demo: [cloudvandana-salesforce-crud-chaitanya.onrender.com](https://cloudvandana-salesforce-crud-chaitanya.onrender.com)
-- LinkedIn: [https://www.linkedin.com/in/chaitu381/](https://www.linkedin.com/in/chaitu381/)
-- Portfolio: [https://portfolio.fengari.me/](https://portfolio.fengari.me/)
-- Email: [chaitu38192021@gmail.com](chaitu38192021@gmail.com)
-- Phone Number: +91 6309909924
-
----
-
 # CloudVandana Salesforce CRUD Assignment
 
 A full-stack Salesforce CRUD application developed for the **CloudVandana Associate Software Engineer Assignment**.
@@ -219,4 +205,18 @@ npm run build
 
 **CloudVandana — Associate Software Engineer Assignment**
 
-The project demonstrates a secure full-stack integration with Salesforce using OAuth 2.0 and the Salesforce REST API.
+The project demonstrates a secure full-stack integration with Salesforce using OAuth 2.0 and the Salesforce REST API.😊
+
+---
+
+## 👨‍💻 Author
+
+**Chaitanya Pilla**
+
+- GitHub: [github.com/Chaitu381](https://github.com/Chaitu381)
+- Repository: [cloudvandana-salesforce-crud-assignment](https://github.com/Chaitu381/cloudvandana-salesforce-crud-assignment)
+- Live Demo: [cloudvandana-salesforce-crud-chaitanya.onrender.com](https://cloudvandana-salesforce-crud-chaitanya.onrender.com)
+- LinkedIn: [https://www.linkedin.com/in/chaitu381/](https://www.linkedin.com/in/chaitu381/)
+- Portfolio: [https://portfolio.fengari.me/](https://portfolio.fengari.me/)
+- Email: [chaitu38192021@gmail.com](chaitu38192021@gmail.com)
+- Phone Number: +91 6309909924
