@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: salesforce-object-manager
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: COOKIE_SECURE
+        value: "true"
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: SF_API_VERSION
+        value: v67.0
+      - key: SF_AUTH_BASE_URL
+        value: https://login.salesforce.com
+      - key: SF_CLIENT_ID
+        sync: false
+      - key: SF_CLIENT_SECRET
+        sync: false
+      - key: APP_BASE_URL
+        sync: false
+      - key: FRONTEND_URL
+        sync: false
+      - key: ALLOWED_ORIGINS
+        sync: false
